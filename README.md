@@ -5,4 +5,4 @@ The user types the city of his or her choice and searche is made from the weathe
 
 Here is a demo of how the app works
 
-![](weatherDemo.mp4)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=A2mHEfZTvZ8/0.jpg)](https://www.youtube.com/watch?v=A2mHEfZTvZ8)
